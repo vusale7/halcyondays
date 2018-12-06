@@ -1,0 +1,349 @@
+body {
+	margin: 0 auto;
+}
+.vmain {
+	position: relative;
+	width: 100%;
+	min-height: 600px;
+	margin: 0;
+	
+}
+.va1 {
+	position: relative;
+	z-index: 2;
+	width: 100%;
+	min-height: 700px;
+	background-image: url(../img/hero-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.va1h {
+	position: absolute;
+	right: 180px;
+	z-index: 6;
+	color: #353535;
+}
+.vb1 {
+	position: absolute;
+	left: 450px;
+	top: 250px;
+	z-index: 3;
+	width: 500px;
+	height: 500px;
+	background: blur;
+}
+.vb2 {
+	color: black;
+	font-size: 40px;
+	font-family: arial;
+	letter-spacing: 12px;
+}
+.vb3 {
+	color: #8c9398;
+	letter-spacing: 12px;
+}
+.vb4 {
+	position: absolute;
+	top: 45px;
+	left: 8px;
+	color: #8c9398;
+}
+.btn {
+	position: absolute;
+	top: 150px;
+	left: 120px;
+	width: 200px;
+	height: 60px;
+	background: rgba(61, 201, 179, 1);
+    /*padding: 20px 40px;*/
+	color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    box-shadow: 0px 3px 0px 0px #309383;
+    font-size: 14px;
+}
+.va2 {
+	position: relative;
+	min-height: 400px;
+	width: 100%;
+	background: whitesmoke;
+	top: -25px;
+}
+.vc1 {
+	position: absolute;
+	top: 100px;
+	left: 550px;
+	min-height: 300px;
+	width: 50%;
+
+
+}
+.vc2 {
+	    font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    
+    font-weight: bold;
+}
+.vc4{
+	position: absolute;
+	top: 220px;
+	left: 350px;
+	min-height: 100px;
+	width: 50%;
+	text-align: center;
+	font-size: 17px;
+	color: #309383;
+}
+.va3 {
+	position: relative;
+	min-height: 600px;
+	width: 100%;
+	background: white;
+	top: -25px;
+}
+.vd1 {
+	position: relative;
+	top: 50px;
+	width: 100%;
+	min-height: 100px;
+	
+}
+.vd5 {
+	position: absolute;
+	left: 490px;
+	font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.vd6 {
+	position: absolute;
+	left: 550px;
+	top: 50px;
+	font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.vd2{
+	position: absolute;
+	top: 130px;
+	width: 33%;
+	min-height: 500px;
+}
+.vd2a{
+	position: absolute;
+	border-radius: 50%;
+	height: 170px;
+	width: 170px;
+	background: #3dc9b3;
+	top: 50px;
+	right: 120px;
+}
+.vd2b {
+	position: absolute;
+	border-radius: 50%;
+	height: 70px;
+	width: 170px;
+	top: 280px;
+	right: 95px;
+	color: black
+
+}
+.vd2c {
+	position: absolute;
+	min-height: 120px;
+	width: 340px;
+	top: 350px;
+	right: 25px;
+	color: #309383;
+	text-align: center;
+	font-family: calibri;
+
+}
+
+.vd3{
+	position: absolute;
+    top: 130px;
+	width: 33%;
+	min-height: 500px;
+	left: 450px;
+}
+.vd3a {
+	position: absolute;
+	border-radius: 50%;
+	height: 170px;
+	width: 170px;
+	background: #3dc9b3;
+	top: 50px;
+	right: 140px;
+}
+.vd3b {
+	position: absolute;
+	border-radius: 50%;
+	height: 70px;
+	width: 170px;
+	top: 280px;
+	right: 130px;
+	color: black
+
+}
+.vd3c {
+	position: absolute;
+	min-height: 120px;
+	width: 340px;
+	top: 350px;
+	right: 45px;
+	color: #309383;
+	text-align: center;
+	font-family: calibri;
+
+}
+.vd4 {
+	position: absolute;
+    top: 130px;
+	width: 33%;
+	min-height: 500px;
+	left: 900px;
+}
+.vd4a {
+	position: absolute;
+	border-radius: 50%;
+	height: 170px;
+	width: 170px;
+	background: #3dc9b3;
+	top: 50px;
+	left: 120px;
+}
+.vd4b {
+	position: absolute;
+	border-radius: 50%;
+	height: 70px;
+	width: 170px;
+	top: 280px;
+	left: 125px;
+	color: black
+
+}
+.vd4c {
+	position: absolute;
+	min-height: 120px;
+	width: 340px;
+	top: 350px;
+	left: 50px;
+	color: #309383;
+	text-align: center;
+	font-family: calibri;
+
+}
+.fa {
+	z-index: 4;
+	color: white;
+	position: absolute;
+	left: 60px;
+	top: 55px;
+	
+
+}
+.va4 {
+	background: whitesmoke;
+	width: 100%;
+	min-height: 620px;
+}
+.va4k {
+	position: absolute;
+	width: 50%;
+	min-height: 620px;
+}
+.va4k1{
+	position: absolute;
+	background-image: url("../img/iphone-bg.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 140%;
+	min-height: 620px;
+	left: 200px;
+}
+.va4l {
+	position:absolute;
+	right: 0px;
+	width: 50%;
+	min-height: 620px;
+	background: white;
+}
+.va4l1{
+	position: absolute;
+	left: 207px;
+	top: 120px;
+}
+.va4l2{
+	position: absolute;
+	left: 200px;
+	top: 170px;
+}
+.va4l3{
+	width: 400px;
+	min-height: 500px;
+	position: absolute;
+	left: 130px;
+	top: 200px;
+	text-align: center;
+	color: #309383;
+
+}
+.va5 {
+	width: 100%;
+	height: 300px;
+	position: relative;
+	background-image: url("../img/plants-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	z-index: 3
+}
+.va5q {
+	min-width: 470px;
+	min-height: 200px;
+	position: absolute;
+	left: 450px;
+	top: 50px;
+}
+.va5q1 {
+	position: absolute;
+	z-index: 5;
+	color: white;
+	font-size: 40px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.va5q2 {
+	position: absolute;
+	z-index: 5;
+	color: white;
+	font-size: 20px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	top: 70px;
+	left: 60px;
+	font-style: italic;
+}
+.va5q3 {
+	position: absolute;
+	top: 150px;
+	left: 200px;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background: #3dc9b3;
+}
+.fa1{
+	position: absolute;
+	top: -42px;
+	left: -47px;
+}
